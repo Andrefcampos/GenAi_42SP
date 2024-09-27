@@ -1,0 +1,68 @@
+Desenvolvedor(a) Back-end (Node.js)
+
+Descrição da vaga:
+
+
+
+Estamos em busca de um(a) Desenvolvedor(a) Back-End com experiência em Node.js e Nest.js para ajudar nossos clientes a operar e escalar diferentes partes de seus negócios durante seu crescimento. Seu papel como Desenvolvedor(a) Back-End será fundamental para solucionar problemas, colaborar com diferentes times na empresa e contribuir com diversos projetos de desenvolvimento de software.
+
+
+
+Responsabilidades:
+
+
+
+Desenvolver e manter aplicações back-end utilizando Node.js e Nest.js.
+Implementar e gerenciar a comunicação entre serviços via Kafka.
+Projetar e implementar APIs RESTful seguindo as melhores práticas.
+Trabalhar com TypeORM para manipulação e gestão de banco de dados.
+Configurar e manter ambientes de desenvolvimento utilizando Docker e Docker-compose.
+Garantir a qualidade e a manutenibilidade do código aplicando princípios de Clean Code.
+Colaborar com equipes de front-end e outros times para garantir a integração perfeita entre os sistemas.
+Realizar revisões de código e promover boas práticas de desenvolvimento.
+
+
+Requisitos:
+
+
+
+Experiência comprovada com Node.js e Nest.js.
+Conhecimento sólido em TypeORM para mapeamento objeto-relacional.
+Experiência com Docker e Docker-compose para containerização de aplicações.
+Compreensão profunda dos princípios de Clean Code e boas práticas de desenvolvimento.
+Experiência em projetar e implementar APIs RESTful.
+Conhecimento em PostgreSQL para gestão de banco de dados.
+Experiência com Kafka para gerenciamento de filas e mensagens.
+Habilidade de trabalhar de forma colaborativa em um ambiente ágil e multifuncional.
+Proatividade e capacidade de resolver problemas de forma eficaz e independente.
+Atenção aos detalhes e comprometimento com a entrega de soluções de alta qualidade.
+
+
+Desejável:
+
+
+
+Experiência com metodologias ágeis, como Scrum ou Kanban.
+Familiaridade com ferramentas de monitoramento e logging.
+Conhecimento em Kubernetes para orquestração de contêineres.
+Experiência com tecnologias Web3 e blockchain.
+Familiaridade com gRPC para comunicação entre microserviços.
+
+
+Benefícios:
+
+
+
+Salário competitivo e compatível com o mercado.
+Vale Transporte ou Auxílio Combustível.
+Vale refeição ou alimentação.
+Oportunidade de crescimento e desenvolvimento profissional.
+Ambiente de trabalho colaborativo e dinâmico, com oportunidade de participar de projetos inovadores.
+
+
+VAGA MODALIDADE "PJ" MODELO HÍBRIDO.
+
+
+
+ Venha fazer parte do nosso time e contribuir para o crescimento e sucesso da Starsoft!
+
